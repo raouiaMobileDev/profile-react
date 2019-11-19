@@ -1,0 +1,6 @@
+.box{
+    /* display: inline-block; */
+    /* display: flex; */
+    display: flex;
+   flex-direction: row;
+}
